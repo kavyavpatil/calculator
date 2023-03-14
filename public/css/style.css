@@ -18,6 +18,7 @@ input[type="text"] {
 body {
   background-image: url("img2.jpg");
   background-size: cover;
+  color: pink;
   background-attachment: fixed;
 }
 
