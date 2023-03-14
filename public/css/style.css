@@ -1,9 +1,9 @@
 input[type="button"] {
-  color: #66BFBF;
+  background: #66BFBF;
   /* width: 20%; */
   /* font-size: 40px; */
   font-weight: 500;
-  color: white;
+  color: pink;
   margin: 2%;
   border-radius: 4px;
 }
