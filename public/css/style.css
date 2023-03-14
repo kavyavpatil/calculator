@@ -2,21 +2,21 @@ input[type="button"] {
   background: #66BFBF;
   /* width: 20%; */
   /* font-size: 40px; */
-  font-weight: 500;
+  font-weight: 600;
   color: pink;
-  margin: 2%;
-  border-radius: 4px;
+  margin: 5%;
+  border-radius: 6px;
 }
 
 input[type="text"] {
   width: 90%;
-  font-size: 20px;
+  font-size: 30px;
   border: 2px inset #f442df;
   border-width: 3px;
 }
 
 body {
-  background-color:#C0EEF2;
+  background-img: url("img1.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
