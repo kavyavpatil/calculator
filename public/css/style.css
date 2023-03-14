@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("img1.jpg");
+  background-image: url("img2.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
